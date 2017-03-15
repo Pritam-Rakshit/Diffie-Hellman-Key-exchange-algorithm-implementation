@@ -13,7 +13,7 @@ DHKE_CLI.py - This is the client module that negotiates the secret key with the 
 
 e.g., DHKE_CLI('127.0.0.1','192.168.1.3',8844)
 
-  a) Server_ip - IP where the DHKE_SERV.py is running.
+  a) Server_ip - IP where the DHKE_SERV.py is running..
   b) Client_ip - IP from where you want to negotiate a key with the server.
   c) port_no   - Port no at which you have set the server module to run.
 
